@@ -1,0 +1,4 @@
+django
+python-dotenv
+django-cors-headers
+openai==0.28
